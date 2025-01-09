@@ -8,7 +8,7 @@ Apache Airflow - открытое программное обеспечение 
   docker compose up -d 
 ```
 
-## Для запуска metabase и выполнения заданий выполните:
+## Для запуска контейнера с metabase и выполнения заданий выполните:
 
 ```bash
   docker compose --profile meta up -d
